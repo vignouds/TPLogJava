@@ -1,0 +1,12 @@
+11:01:41.361 [main] INFO  org.diginamic.App -Bonjour Slf4J ! 
+11:01:41.361 [main] INFO  org.diginamic.App -Implémentation Logback
+11:01:41.361 [main] DEBUG dev.service.AppService -Traitement 1 : param = valeur 1
+11:01:46.811 [main] INFO  org.diginamic.App -Bonjour Slf4J ! 
+11:01:46.811 [main] INFO  org.diginamic.App -Implémentation Logback
+11:01:46.811 [main] DEBUG dev.service.AppService -Traitement 1 : param = valeur 1
+11:01:58.624 [main] INFO  org.diginamic.App -Bonjour Slf4J ! 
+11:01:58.624 [main] INFO  org.diginamic.App -Implémentation Logback
+11:01:58.624 [main] DEBUG dev.service.AppService -Traitement 1 : param = valeur 1
+11:02:59.480 [main] INFO  org.diginamic.App -Bonjour Slf4J ! 
+11:02:59.480 [main] INFO  org.diginamic.App -Implémentation Logback
+11:02:59.480 [main] DEBUG dev.service.AppService -Traitement 1 : param = valeur 1
